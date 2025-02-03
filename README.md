@@ -114,7 +114,7 @@ This project is part of a Python programming course that covered topics like:
 * **Object-Oriented Programming (OOP)**
 * **File and Data Manipulation**
 * **Data Visualization**
-* 
+
 Special thanks to **Our World in Data** for the dataset.
 
 ---
